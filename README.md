@@ -1,6 +1,5 @@
 # Biroska
 Porcaria
-Equipqmentos 
-
-Termo usado para descrever qualquer tipo de equipamento cakeado
+Equipamentos que não tem conserto
+Termo usado para descrever qualquer porcaria
 Palavra que não tem significadorc
